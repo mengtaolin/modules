@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="cn.lin.core.interFace.IModule"/>
+    <classEntry path="cn.lin.core.events.GlobalDispatcher"/>
+    <classEntry path="cn.lin.core.events.GlobalEvent"/>
+    <classEntry path="Declare"/>
+    <classEntry path="cn.lin.core.utils.DemoUtils"/>
+    <classEntry path="cn.lin.core.interFace.ILoader"/>
+    <classEntry path="cn.lin.core.interFace.ITick"/>
+    <classEntry path="cn.lin.core.GlobalParams"/>
+    <classEntry path="cn.lin.core.TickManager"/>
+    <classEntry path="cn.lin.core.interFace.IVo"/>
+    <classEntry path="cn.lin.core.vo.module.ModuleVo"/>
+    <classEntry path="cn.lin.core.base.BaseSprite"/>
+    <classEntry path="cn.lin.core.gameLoader.LoadTimer"/>
+    <classEntry path="cn.lin.core.gameLoader.vo.TimeVo"/>
+    <classEntry path="cn.lin.core.interFace.ITest"/>
+    <classEntry path="cn.lin.core.interFace.ITest2"/>
+    <classEntry path="cn.lin.core.events.MainModuleEvent"/>
+    <classEntry path="cn.lin.core.vo.module.ModuleNameConst"/>
+    <classEntry path="cn.lin.core.vo.module.ModuleUpdateVo"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
